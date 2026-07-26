@@ -8,7 +8,7 @@ This rulebook governs participation in all Counter-Strike 2 ("CS2") competitions
 
 Clauses that apply to only one environment are marked **[Online only]** or **[LAN only]**. All other clauses apply to both.
 
-Where a rule asks you to contact WACS, do so by **DMing a staff member on Discord** or **opening a ticket at [wa-cs.com/support](http://wa-cs.com/support)**.
+Where a rule asks you to contact WACS, do so by **opening a ticket at [wa-cs.com/support](http://wa-cs.com/support)**. Please do not DM staff members directly.
 
 ---
 
@@ -257,11 +257,11 @@ WACS uses the **current CS2 Active Duty map pool** as set by Valve, so that play
 
 * Ancient
 * Anubis
+* Cache
 * Dust II
 * Inferno
 * Mirage
 * Nuke
-* Overpass
 
 When Valve updates the Active Duty pool, WACS follows suit. The TO may make a temporary exception where necessary (for example, if a map is broken by a recent update).
 
@@ -389,7 +389,7 @@ A protest must:
 * Be submitted within the timeframe set for that competition
 * Include evidence (for example, screenshots, demos, or clips)
 * Be submitted respectfully
-* Be lodged by **DMing a staff member on Discord** or **opening a ticket at [wa-cs.com/support](http://wa-cs.com/support)**
+* Be lodged by **opening a ticket at [wa-cs.com/support](http://wa-cs.com/support)** — do not DM staff members directly
 
 ## 12.2 Staff Decisions
 

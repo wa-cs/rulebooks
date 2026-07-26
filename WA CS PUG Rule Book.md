@@ -8,7 +8,7 @@ This rulebook governs participation in WA Counter-Strike ("WACS") **pick-up game
 
 PUGs are separate from the WA League and One Day Cups, which are governed by the main WACS Competition Rulebook.
 
-Where a rule asks you to contact WACS, do so by **DMing a staff member on Discord** or **opening a ticket at [wa-cs.com/support](http://wa-cs.com/support)**.
+Where a rule asks you to contact WACS, do so by **opening a ticket at [wa-cs.com/support](http://wa-cs.com/support)**. Please do not DM staff members directly.
 
 ---
 
@@ -136,14 +136,14 @@ Players join a PUG by entering the lobby in the WACS Discord. A PUG forms once *
 
 ## 4.2 Captains
 
-When the lobby fills, the **two highest-ELO players** are made captains, one for each side.
+When the lobby fills, two captains are drawn **at random from the four highest-ELO players** in the lobby, one for each side.
 
 ## 4.3 Draft
 
-The captains draft the remaining eight players into their teams:
+The captains draft the remaining eight players into their teams in the **#queue** channel on the WACS Discord:
 
-* Captains pick in **straight alternating turns**.
-* The captain who does not take the first pick takes the final pick, so each captain ends with **four** drafted players (five including themselves).
+* Captains pick in **snake order** (A, B, B, A, A, B, B, A): the first captain takes one pick, then the captains take two picks each in turn.
+* The captain who takes the first pick also takes the final pick, and each captain ends with **four** drafted players (five including themselves).
 
 Once both teams are set, the captains move to the veto.
 
@@ -153,7 +153,7 @@ Once both teams are set, the captains move to the veto.
 
 Every PUG is a **single map (Best of One)**.
 
-The veto is handled on the WACS website at [wa-cs.com](http://wa-cs.com). The two captains check in, then ban maps in **straight alternating turns** from the Active Duty pool (see Section 6.4) until **one map remains**, which is played. Each captain has **1 minute per ban** by default. Staff may run the veto manually if needed.
+The veto is handled by the two captains in the **#queue** channel on the WACS Discord. Captains ban maps in **straight alternating turns** from the Active Duty pool (see Section 6.4) until **one map remains**, which is played. Staff may run the veto manually if needed.
 
 Starting sides on the chosen map are decided by a **knife round**.
 
@@ -190,11 +190,11 @@ PUGs use the **current CS2 Active Duty map pool** as set by Valve, so that play 
 
 * Ancient
 * Anubis
+* Cache
 * Dust II
 * Inferno
 * Mirage
 * Nuke
-* Overpass
 
 When Valve updates the Active Duty pool, WACS follows suit.
 
@@ -280,7 +280,7 @@ A protest must:
 * Be raised promptly, ideally during or immediately after the game
 * Include evidence (for example, screenshots, demos, or clips)
 * Be submitted respectfully
-* Be lodged by **DMing a staff member on Discord** or **opening a ticket at [wa-cs.com/support](http://wa-cs.com/support)**
+* Be lodged by **opening a ticket at [wa-cs.com/support](http://wa-cs.com/support)** — do not DM staff members directly
 
 ## 12.2 Staff Decisions
 
