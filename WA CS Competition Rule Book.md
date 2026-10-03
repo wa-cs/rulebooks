@@ -253,6 +253,8 @@ Teams waiting on a late opponent should stay on the veto page until staff confir
 
 A team may forfeit a map or match if it fails to field a valid five-player lineup, is late under Section 5.4, abandons a match, or breaches procedure in a way these rules specify. Staff confirm all forfeits.
 
+**[Online only]** A match that is not played within its match week is forfeited, unless staff agree there are exceptional circumstances.
+
 ## 5.6 Score Reporting
 
 Match results are recorded automatically through the WACS match system. If a result is recorded incorrectly, captains should raise it with staff before the next round of the competition begins.
