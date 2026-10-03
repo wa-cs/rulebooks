@@ -2,7 +2,7 @@
 
 # WA Counter-Strike — Official Competition Rulebook
 
-**Effective date:** 22 June 2026
+**Effective date:** 3 October 2026
 
 This rulebook governs participation in all Counter-Strike 2 ("CS2") competitions operated by WA Counter-Strike ("WACS", the "Tournament Organizer", or "TO"). It applies to the **WA League** and **One Day Cups**, across both **online** and **LAN** play. By registering for or participating in any WACS competition, all players, teams, coaches, and staff agree to comply with these rules.
 
@@ -69,6 +69,9 @@ Staff rulings are final, subject only to the appeals process in Section 12.3.
 * **Bo1 / Bo3 / Bo5** — Best of one, three, or five maps.
 * **MR12** — "Maximum Rounds 12"; each half is 12 rounds, and the first team to 13 rounds wins the map.
 * **Veto** — the process by which teams ban and pick maps before a match.
+* **Match week** — the period in which a round of a competition is played. Unless a competition states otherwise, a match week runs from Monday to Sunday, Perth time (AWST).
+* **Match night** — the day and time on which every match in a match week is scheduled unless the two teams agree a different time.
+* **Scheduled match time** — the time a match is currently set to be played, as shown on the WACS website. All times are Perth time (AWST).
 * **Knife round** — a round played with knives only to decide starting sides on a map.
 * **Smurf** — an account used by a player to misrepresent their identity or skill level.
 * **Walkover / Forfeit** — a match awarded to one team because the opponent did not field a valid lineup or comply with procedure.
@@ -197,30 +200,60 @@ Seeding may be determined by ranking, previous results, or staff discretion. The
 
 # 5. Match Procedures
 
-## 5.1 Check-In & Ready-Up
+## 5.1 Match Scheduling
 
-Matches are created on the WACS website at [wa-cs.com](http://wa-cs.com). Before a match begins:
+**[Online only]** Each round of a league competition is played in a match week, and each match week has a match night. WACS announces the match night before the competition begins.
 
-1. Teams check in by the designated deadline.
-2. Players ready up on the match page. The match goes live once the first five enrolled players on each side have readied up, so the order in which substitutes are added matters.
+* Every match is scheduled for its match week's match night as soon as its two teams are known.
+* The scheduled match time is the time shown for the match on the WACS website at [wa-cs.com](http://wa-cs.com). All times are Perth time (AWST).
+* A match stays at its scheduled match time unless it is rescheduled under Section 5.2 or moved by staff.
+* A match whose teams are decided by an earlier match is scheduled for its own match week's match night once both teams are known. If that match night has already passed, staff set the time.
 
-Failure to check in by the deadline may result in a map loss, match forfeit, or removal from the competition.
+**[LAN only]** A stage played at a LAN or in a single day has no match night. Its matches are played in bracket order on the day, and each match starts when both teams and a server are ready. Staff direct the order of play.
 
-## 5.2 Punctuality
+## 5.2 Rescheduling
 
-Teams must be ready to play at the scheduled match time. The following default penalties apply equally **online and at LAN**:
+**[Online only]** A team that cannot play at the scheduled match time may ask its opponent to play at a different time.
+
+1. **Who may ask and answer.** A team's captain or registered coach may send, accept, decline, or cancel a reschedule request on behalf of the team. A decision made by either is binding on the team.
+2. **How.** Requests are made and answered on the match's page on the WACS website. Where the website cannot be used, a request may be made or answered by opening a support ticket, and the same deadlines apply.
+3. **Where the new time may fall.** The new time must fall within the same match week. A time outside the match week requires staff approval. A team may play two matches in the same match week.
+4. **Deadline.** A reschedule must be settled at least **24 hours before the scheduled match time**. After that the match time is locked and only staff can change it.
+5. **Answering a request.** The opposing team should accept or decline as soon as it can. Declining does not need a reason, but teams are expected to act in good faith and to offer an alternative where they can.
+6. **No reply.** A request that the opposing team has not answered **within 24 hours of being sent is accepted automatically**, and the match moves to the requested time. This applies only where the 24 hours end before the deadline in clause 4 and at least 24 hours before the requested time, so that a team always has a day's notice of a time it did not answer. A request sent too late for this needs a reply, and expires at the deadline if it does not get one.
+7. **Being reachable.** Teams are told about requests through the WACS website and by Discord message. It is each team's responsibility to keep its captain's and coach's Discord accounts linked to their WACS accounts and to check for requests. A request is not accepted automatically while nobody on the opposing team has a linked Discord account; staff decide it instead.
+8. **One request at a time.** A match can have one open request. A team that would prefer a different time declines and sends its own.
+9. **Staff changes.** Staff may move any match at any time, including after the deadline, to resolve clashes, server availability, or circumstances these rules do not cover. Staff tell both teams when they do.
+
+An accepted reschedule is final. The match is played at the new time, and Section 5.4 applies to it.
+
+## 5.3 Ready-Up
+
+Matches are created on the WACS website at [wa-cs.com](http://wa-cs.com).
+
+1. The map veto for a match opens **30 minutes before the scheduled match time**. Both teams are notified when it opens.
+2. Each team's captain picks the five players for the match and readies up on the veto page. The veto begins once both captains are ready.
+3. After the veto, the chosen players join the server and ready up. Only those five are added to the server, and the match goes live once all of them on each side have readied up.
+
+## 5.4 Punctuality
+
+Teams must be ready to play at the scheduled match time. A team is **late** if its captain has not readied up on the veto page by the scheduled match time. The following default penalties apply equally **online and at LAN**:
 
 * **10 minutes late** — warning
 * **15 minutes late** — map loss
 * **20 minutes late** — match forfeit
 
-Staff may adjust these penalties for exceptional circumstances.
+In a Bo1, a map loss decides the match, so the 15 minute penalty is a match forfeit.
 
-## 5.3 Forfeits
+The WACS website records lateness and proposes these penalties. **A penalty takes effect only when staff confirm it**, and staff may adjust or waive it for exceptional circumstances. Time lost to a fault that is not the team's — for example, a veto that opened late or no server being available — does not count against a team. Once both captains have readied up, lateness in joining the server is judged by staff.
 
-A team may forfeit a map or match if it fails to field a valid five-player lineup, fails to check in, abandons a match, or breaches procedure in a way these rules specify. Staff confirm all forfeits.
+Teams waiting on a late opponent should stay on the veto page until staff confirm the outcome.
 
-## 5.4 Score Reporting
+## 5.5 Forfeits
+
+A team may forfeit a map or match if it fails to field a valid five-player lineup, is late under Section 5.4, abandons a match, or breaches procedure in a way these rules specify. Staff confirm all forfeits.
+
+## 5.6 Score Reporting
 
 Match results are recorded automatically through the WACS match system. If a result is recorded incorrectly, captains should raise it with staff before the next round of the competition begins.
 
@@ -269,7 +302,7 @@ When Valve updates the Active Duty pool, WACS follows suit. The TO may make a te
 
 # 7. Map Veto Process
 
-Vetos are handled on the WACS website at [wa-cs.com](http://wa-cs.com). A match is created, the captains from both teams check in, and the veto begins once check-in is complete. Each captain has **1 minute per selection** by default. Staff may also run the veto manually and build the match accordingly.
+Vetos are handled on the WACS website at [wa-cs.com](http://wa-cs.com). The veto opens 30 minutes before the scheduled match time, the captains from both teams ready up, and the veto begins once both are ready. Each captain has **1 minute per selection** by default. Staff may also run the veto manually and build the match accordingly.
 
 ## 7.1 Best of One (Bo1)
 
@@ -360,6 +393,10 @@ A coach may communicate with their team during:
 ## 10.2 Restrictions
 
 Coaches **must not** communicate with their team while a round is live — that is, from the moment the round goes live until it ends. Breaches may result in penalties under Section 13.
+
+## 10.3 Scheduling
+
+A team's registered coach may send and answer reschedule requests for the team under Section 5.2. A coach's decision binds the team in the same way as the captain's.
 
 ---
 
