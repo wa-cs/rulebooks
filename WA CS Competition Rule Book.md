@@ -2,7 +2,7 @@
 
 # WA Counter-Strike — Official Competition Rulebook
 
-**Effective date:** 3 October 2026
+**Effective date:** 5 October 2026
 
 This rulebook governs participation in all Counter-Strike 2 ("CS2") competitions operated by WA Counter-Strike ("WACS", the "Tournament Organizer", or "TO"). It applies to the **WA League** and **One Day Cups**, across both **online** and **LAN** play. By registering for or participating in any WACS competition, all players, teams, coaches, and staff agree to comply with these rules.
 
@@ -218,14 +218,14 @@ Seeding may be determined by ranking, previous results, or staff discretion. The
 1. **Who may ask and answer.** A team's captain or registered coach may send, accept, decline, or cancel a reschedule request on behalf of the team. A decision made by either is binding on the team.
 2. **How.** Requests are made and answered on the match's page on the WACS website. Where the website cannot be used, a request may be made or answered by opening a support ticket, and the same deadlines apply.
 3. **Where the new time may fall.** The new time must fall within the same match week. A time outside the match week requires staff approval. A team may play two matches in the same match week.
-4. **Deadline.** A reschedule must be settled at least **24 hours before the scheduled match time**. After that the match time is locked and only staff can change it.
+4. **Deadline.** A reschedule must be settled at least **1 hour before the scheduled match time**. After that the match time is locked and only staff can change it. A request that is not accepted by then expires, and the match is played at its scheduled time.
 5. **Answering a request.** The opposing team should accept or decline as soon as it can. Declining does not need a reason, but teams are expected to act in good faith and to offer an alternative where they can.
-6. **No reply.** A request that the opposing team has not answered **within 24 hours of being sent is accepted automatically**, and the match moves to the requested time. This applies only where the 24 hours end before the deadline in clause 4 and at least 24 hours before the requested time, so that a team always has a day's notice of a time it did not answer. A request sent too late for this needs a reply, and expires at the deadline if it does not get one.
+6. **No reply.** A request that the opposing team has not answered **within 24 hours of being sent is accepted automatically**, and the match moves to the requested time. This applies only where the 24 hours end before the deadline in clause 4 and at least 24 hours before the requested time, so that a team always has a day's notice of a time it did not answer. A request sent too late for this needs a reply, and expires at the deadline if it does not get one. A new time must be more than 1 hour away when it is requested.
 7. **Being reachable.** Teams are told about requests through the WACS website and by Discord message. It is each team's responsibility to keep its captain's and coach's Discord accounts linked to their WACS accounts and to check for requests. A request is not accepted automatically while nobody on the opposing team has a linked Discord account; staff decide it instead.
-8. **One request at a time.** A match can have one open request. A team that would prefer a different time declines and sends its own.
+8. **One request at a time.** A match can have one open request. A team that would prefer a different time declines and sends its own. A match that has already been rescheduled can be rescheduled again under the same rules.
 9. **Staff changes.** Staff may move any match at any time, including after the deadline, to resolve clashes, server availability, or circumstances these rules do not cover. Staff tell both teams when they do.
 
-An accepted reschedule is final. The match is played at the new time, and Section 5.4 applies to it.
+An accepted reschedule stands until another request is accepted or staff move the match. The match is played at the new time, and Section 5.4 applies to it.
 
 ## 5.3 Ready-Up
 
