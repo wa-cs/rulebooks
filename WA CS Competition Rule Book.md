@@ -127,7 +127,7 @@ Players may not:
 A team is treated as withdrawn if it:
 
 * Disbands or tells staff it is leaving the competition
-* Forfeits three (3) matches by not playing them
+* Forfeits two (2) matches by not playing them without a reason staff accept
 * Stays below its core three players for more than 7 days (Section 2.4)
 
 When a team withdraws:
