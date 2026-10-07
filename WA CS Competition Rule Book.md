@@ -111,7 +111,7 @@ Only registered roster members may participate in a team's matches.
 
 * **Rosters lock 7 days before the first playoff match.** After lock, any roster change requires staff approval and is granted at staff discretion (for example, to allow an emergency substitution).
 * **A player may move teams at most once every 14 days.** A player who joins a team, whether new to the competition or moving from another team, cannot join a different team until 14 days have passed since they joined.
-* **Teams must keep a core of three (3) players.** At least three players from a team's registered starting five must remain on its roster for the whole competition.
+* **Teams must keep a core of three (3) players.** At least three players from a team's registered starting five must remain on its roster for the whole competition. A team that drops below three has 7 days to get back to three, and any match scheduled in that time is forfeited. After 7 days it is treated as withdrawn under Section 2.6.
 * Unauthorised roster changes may result in map loss, match forfeit, or disqualification.
 
 ## 2.5 Account Integrity & Multiple Teams
@@ -121,6 +121,21 @@ Players may not:
 * Compete for more than one team in the same competition, unless approved in advance by all affected teams and staff
 * Share accounts
 * Smurf or use alternate accounts
+
+## 2.6 Team Withdrawal
+
+A team is treated as withdrawn if it:
+
+* Disbands or tells staff it is leaving the competition
+* Forfeits three (3) matches by not playing them
+* Stays below its core three players for more than 7 days (Section 2.4)
+
+When a team withdraws:
+
+* **Before the halfway point of the regular season or group stage**, all of its results are removed from the standings.
+* **From the halfway point on**, its played results stand and each of its remaining matches is forfeited to the opponent.
+* The team forfeits any prize.
+* Staff may suspend players who caused the withdrawal, for example by leaving the team mid-season, from the next WACS competition.
 
 ---
 
