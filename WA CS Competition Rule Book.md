@@ -109,7 +109,8 @@ Only registered roster members may participate in a team's matches.
 
 ## 2.4 Roster Locks & Changes
 
-* **Rosters lock 7 days before a team's first match.** After lock, any roster change requires staff approval and is granted at staff discretion (for example, to allow an emergency substitution).
+* **Rosters lock 7 days before the first playoff match.** After lock, any roster change requires staff approval and is granted at staff discretion (for example, to allow an emergency substitution).
+* **A player may move teams at most once every 14 days.** A player who joins a team, whether new to the competition or moving from another team, cannot join a different team until 14 days have passed since they joined.
 * Unauthorised roster changes may result in map loss, match forfeit, or disqualification.
 
 ## 2.5 Account Integrity & Multiple Teams
