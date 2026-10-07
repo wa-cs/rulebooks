@@ -132,8 +132,8 @@ A team is treated as withdrawn if it:
 
 When a team withdraws:
 
-* **Before the halfway point of the regular season or group stage**, all of its results are removed from the standings.
-* **From the halfway point on**, its played results stand and each of its remaining matches is forfeited to the opponent.
+* **In the regular season or group stage**, every match it played or was due to play is recorded as a forfeit win for its opponent.
+* **In a bracket**, its played results stand and each of its remaining matches is forfeited to the opponent.
 * The team forfeits any prize.
 * Staff may suspend players who caused the withdrawal, for example by leaving the team mid-season, from the next WACS competition.
 
