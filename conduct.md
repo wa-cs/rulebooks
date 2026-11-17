@@ -71,9 +71,8 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 4.4 Staff can ask for proof of where you live or how old you are.
 4.5 An event can set its own residency and age rules on its event page.
 4.6 A current cheating ban from Valve, an anti-cheat service or another tournament organiser can make you ineligible, wherever it happened. Tell staff about one if they ask. Staff decide whether it applies.
-4.7 If you move away from WA during an event, tell staff. You can finish that event, but you can't enter a new one.
-4.8 Staff can play PUGs and enter events. Section 5.4.2 covers their own matches.
-4.9 Proof you give staff must be genuine. False proof makes you ineligible, and is misleading staff under section 5.3.2.
+4.7 Staff can play PUGs and enter events. Section 5.4.2 covers their own matches.
+4.8 Proof you give staff must be genuine. False proof makes you ineligible, and is misleading staff under section 5.3.2.
 
 # 5. Behaviour
 
