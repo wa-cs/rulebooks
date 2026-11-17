@@ -10,7 +10,7 @@ PUGs are pick-up games any linked player can join through the WACS Discord. Thes
 1.3 The fair play rules in Code of conduct section 6 apply in every PUG.
 1.4 Staff can cancel or restart a PUG to fix a problem. A cancelled PUG doesn't change anyone's points.
 1.5 Each PUG has a match number, shown in the Discord. Give it whenever you contact staff about a PUG.
-1.6 Use /link to link your accounts, /stats for your stats, /leaderboard for the season and /help for everything else.
+1.6 Use /link to link your accounts, /stats for your stats, /leaderboard for the season and /help for the other commands.
 
 # 2. Joining
 
@@ -27,7 +27,7 @@ PUGs are pick-up games any linked player can join through the WACS Discord. Thes
 3.2 You need 10 rated PUGs to be in the captain pool. The 4 players in the lobby with the highest captain scores form the pool, and 2 of them are drawn at random.
 3.3 If fewer than 4 players in the lobby have 10 rated PUGs, the pool is filled with other players from the lobby.
 3.4 Captain rating carries across seasons and doesn't reset. It drops slowly while you're not playing.
-3.5 Nobody can see captain ratings, including your own. [wa-cs.com/announcements/captain-rating](https://wa-cs.com/announcements/captain-rating) explains how the rating works.
+3.5 Captain ratings are hidden from everyone, including you. [wa-cs.com/announcements/captain-rating](https://wa-cs.com/announcements/captain-rating) explains how the rating works.
 3.6 The captain with the lower captain score picks first. The first captain picks one player, then each captain picks two in turn, and the first captain makes the last pick.
 3.7 Captains have 3 minutes to finish picking. If they don't, the PUG is cancelled and everyone has to queue again.
 3.8 Captains can pick anyone in the lobby. Don't arrange picks or swap teams before or after the picks.
@@ -58,7 +58,7 @@ PUGs are pick-up games any linked player can join through the WACS Discord. Thes
 
 # 6. Match settings
 
-6.1 Matches are MR12: first to 13 rounds wins.
+6.1 Matches are MR12, so the first team to 13 rounds wins.
 6.2 A 12–12 tie goes to overtime. Overtime is MR3 with $10,000 start money, repeated until there's a winner.
 6.3 Each team has 3 tactical pauses of 30 seconds, plus 1 more in each overtime.
 6.4 Players can't call technical pauses. If the server or the game breaks, ask staff for help in the Discord.
@@ -66,7 +66,7 @@ PUGs are pick-up games any linked player can join through the WACS Discord. Thes
 6.6 If the server crashes, staff restore the round from its backup, or cancel the match with no points gained or lost.
 6.7 Talk only with your own team during a match. Listening to the other team is ghosting under Code of conduct section 6.4.1.
 6.8 Don't call votes in the game's vote menu, including to kick, surrender or time out.
-6.9 Only the 10 players, staff and spectators staff add can join a PUG server.
+6.9 Only the 10 players, staff and spectators added by staff can join a PUG server.
 6.10 Play under the name on your WACS profile, or one staff can easily match to it.
 
 # 7. Leaving, throwing and subs
@@ -85,7 +85,7 @@ PUGs are pick-up games any linked player can join through the WACS Discord. Thes
 7.3.1 Play to win every round. Throwing, griefing or going AFK on purpose is banned.
 [penalties: throwing]
 7.3.2 Flashing, damaging or blocking your own teammates on purpose is griefing.
-7.3.3 Staff decide whether a player threw from the GOTV demo and the reports they get.
+7.3.3 Staff use the GOTV demo and reports to decide whether a player threw.
 
 ## 7.4 Subs
 7.4.1 Staff can bring in a sub to finish a match. Staff choose a linked player who isn't in another match or serving a queue ban.

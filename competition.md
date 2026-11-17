@@ -154,7 +154,7 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 # 9. Technical rules
 
 ## 9.1 Game settings
-9.1.1 Matches are MR12: first to 13 rounds wins a map.
+9.1.1 Matches are MR12, so the first team to 13 rounds wins a map.
 9.1.2 A 12–12 tie goes to overtime. Overtime is MR3 with $10,000 start money, repeated until there's a winner.
 9.1.3 Friendly fire and team collision are on.
 9.1.4 Don't change server settings or call votes in the game's vote menu.
