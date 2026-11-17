@@ -96,7 +96,7 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 
 ## 6.1 Match weeks
 6.1.1 Online leagues run in match weeks, Monday to Sunday.
-6.1.2 Each match is set for the event's match night unless it's rescheduled.
+6.1.2 Each match is set for the event's default match day unless it's rescheduled.
 6.1.3 Your match time is the one on the match page. All times are Perth time.
 6.1.4 Staff can forfeit a match that isn't played in its match week, against the team that caused it. If both teams did, staff can record it as a loss for both.
 6.1.5 Staff set playoff match times. A playoff match can only be moved with staff approval.
@@ -254,7 +254,7 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 # 13. LAN events
 
 ## 13.1 Schedule and check-in
-13.1.1 The match night, rescheduling and lateness rules in section 6 don't apply at a LAN. The event page sets the day's schedule, and matches run in bracket order.
+13.1.1 The default match day, rescheduling and lateness rules in section 6 don't apply at a LAN. The event page sets the day's schedule, and matches run in bracket order.
 13.1.2 Check in at the venue by the time on the event page, with every player and the coach.
 13.1.3 Every player in a LAN match plays from the venue.
 13.1.4 Be at your computers when your match is called. A team that isn't ready 10 minutes after the call loses a map, which is the match in a Bo1, and after 20 minutes forfeits the match.
