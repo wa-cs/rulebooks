@@ -203,12 +203,44 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 
 # 13. LAN events
 
-13.1 Match nights, rescheduling and the lateness penalties don't apply at a LAN. Matches run in bracket order and start when both teams and a server are ready.
-13.2 Check in at the venue by the time on the event page. Be at your computers when your match is called, or staff can forfeit your team.
-13.3 Every player in a LAN match plays from the venue.
-13.4 Bring your own peripherals and headset. The event page says what the venue provides.
-13.5 Install only drivers for your peripherals and your own game config. Staff can check computers and peripherals under Code of conduct section 7.4.
-13.6 Follow the venue's rules, including on alcohol, food and smoking.
-13.7 Spectators can watch from behind players. If it's a distraction, call a pause and tell staff.
-13.8 At a café, other customers may be around. Staff will raise a disruptive customer with the venue, but can't promise to resolve it.
-13.9 Travel and accommodation are at your own cost.
+## 13.1 Schedule and check-in
+13.1.1 The match night, rescheduling and lateness rules in section 6 don't apply at a LAN. The event page sets the day's schedule, and matches run in bracket order.
+13.1.2 Check in at the venue by the time on the event page, with every player and the coach.
+13.1.3 Every player in a LAN match plays from the venue.
+13.1.4 Be at your computers when your match is called. A team that isn't ready 10 minutes after the call loses a map, which is the match in a Bo1, and after 20 minutes forfeits the match.
+13.1.5 Between maps, be back at your computers within 10 minutes unless the schedule gives a longer break.
+13.1.6 If you're held up on the way, tell staff as soon as you can. Staff can move a match for a delay outside your control, but don't have to.
+
+## 13.2 Identity
+13.2.1 Bring photo ID. Staff can check that each player is the person on the account they play on.
+13.2.2 The venue's age rules apply on top of Code of conduct section 4.3, for example in a licensed area.
+
+## 13.3 Equipment and setup
+13.3.1 Bring your own mouse, keyboard, headset and mousepad. The event page says what the venue provides, such as computers, monitors and the network.
+13.3.2 Peripherals follow Code of conduct section 6.3. Onboard macros and binds that make more than one action from one key are banned.
+13.3.3 Wireless peripherals are allowed. Staff can ask you to switch to wired if one interferes with other players.
+13.3.4 Install only drivers for your peripherals and your own game config. Bring your config on a USB drive or through Steam Cloud.
+13.3.5 Don't change a venue computer's settings beyond your game settings, peripheral drivers and display settings.
+13.3.6 You get 15 minutes at your computer before your team's first match to set up and test.
+13.3.7 Staff can check computers and peripherals before or after any match under Code of conduct section 7.4.
+
+## 13.4 Problems at the venue
+13.4.1 If a venue computer, monitor or the network fails during a map, call a technical pause. Staff handle it as a server problem under section 9.5.
+13.4.2 If your own peripheral fails, fix or replace it during a pause. That isn't a reason to replay a round.
+13.4.3 Staff can move a team to another computer or station between maps.
+
+## 13.5 Communication
+13.5.1 Use your headset for team voice during a live map. Only your team, and your coach under section 9.7, can be on it.
+13.5.2 Phones and other devices stay away from your computer during a live map, except a device staff approve for team voice.
+13.5.3 Don't talk to spectators or anyone outside your team during a live map. Doing so is ghosting under Code of conduct section 6.4.1.
+
+## 13.6 Conduct at the venue
+13.6.1 Follow the venue's rules, including on alcohol, food and smoking.
+13.6.2 Keep food and drink off the playing tables. Staff can ask you to move them.
+13.6.3 Spectators can watch from behind players. If it's a distraction, call a pause and tell staff.
+13.6.4 At a café, other customers may be around. Staff will raise a disruptive customer with the venue, but can't promise to resolve it.
+13.6.5 Staff can remove anyone from the venue for behaviour under Code of conduct section 5. Whoever damages venue equipment answers for it.
+13.6.6 WACS can photograph and film players at the venue and publish it under Code of conduct section 10.1.
+
+## 13.7 Travel
+13.7.1 Travel and accommodation are at your own cost.
