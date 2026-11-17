@@ -10,7 +10,7 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 1.3 A team's captain acts for the team. They sign it up, change its roster, reschedule its matches and run its veto. The coach can also reschedule matches, and run the veto in a league. What either agrees binds the team.
 1.4 Every player and coach on a roster accepts these rules and the Code of conduct when the team signs up.
 1.5 Captains must be in the WACS Discord, and answer staff during the event.
-1.6 Staff announce event news in the Discord and on the event page. Missing an announcement is no excuse.
+1.6 Staff announce event news in the Discord and on the event page. Check both during the event.
 
 # 2. Teams and rosters
 
@@ -50,7 +50,7 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 2.5.2 A coach must be linked and eligible under Code of conduct section 4, and can't coach while banned from events.
 2.5.3 A coach can't play. To play, they must be changed to a sub on the roster.
 2.5.4 A coach can coach only one team in an event.
-2.5.5 A coach follows the same conduct rules as players, and the team answers for them under Code of conduct section 8.5.
+2.5.5 A coach follows the same conduct rules as players. The team is responsible for its coach under Code of conduct section 8.5.
 
 ## 2.6 Withdrawing and disqualification
 2.6.1 If your team is leaving an event, tell staff in a ticket.
@@ -312,11 +312,11 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 13.7.2 Keep food and drink off the playing tables. Staff can ask you to move them.
 13.7.3 Spectators can watch from behind players. If it's a distraction, call a pause and tell staff.
 13.7.4 At a café, other customers may be around. Staff will raise a disruptive customer with the venue, but can't promise to resolve it.
-13.7.5 Staff can remove anyone from the venue for behaviour under Code of conduct section 5. Whoever damages venue equipment answers for it.
+13.7.5 Staff can remove anyone from the venue for behaviour under Code of conduct section 5. A player who damages venue equipment is responsible for the damage.
 13.7.6 WACS can photograph and film players at the venue and publish it under Code of conduct section 10.1.
 13.7.7 Only players in the current match, their coaches and staff can be in the player area.
-13.7.8 Don't play drunk or under the influence of drugs. Staff can stop a player who is from playing.
-13.7.9 Celebrate as you like, but don't taunt opponents at their computers.
+13.7.8 Staff can stop a player who is drunk or affected by drugs from playing.
+13.7.9 Don't taunt opponents at their computers.
 13.7.10 The event page can set a dress code, such as team shirts.
 
 ## 13.8 Protests and rulings

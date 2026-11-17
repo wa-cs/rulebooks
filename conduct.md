@@ -10,7 +10,7 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 1.1 There are three rule books. This one applies everywhere. The PUG rules cover PUGs and the Competition rules cover events.
 1.2 Playing in a WACS match or joining the WACS Discord means you accept these rules.
 1.3 Where two rules differ, the more specific one wins. An event page wins over the Competition rules, and the Competition and PUG rules win over this book.
-1.4 Not knowing a rule is no defence.
+1.4 Not knowing a rule doesn't excuse breaking it.
 1.5 Staff can make any ruling needed to keep a match or event fair. That includes ruling on cases these rules don't cover, and departing from a written rule where following it would be unfair.
 1.6 A ruling under section 1.5 applies to that case only. It doesn't change the rule.
 1.7 Staff rulings stand unless they're changed on appeal under section 9.2.
@@ -102,7 +102,7 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 5.3.1 Follow staff instructions during a match.
 5.3.2 Don't mislead staff. That includes false information in a ticket, a report or an appeal, and edited or made-up evidence.
 5.3.3 If you disagree with a ruling, appeal it under section 9.2. Don't argue it out in public channels.
-5.3.4 Raise a ruling or a report only in a ticket. Don't message staff about it directly.
+5.3.4 Talk to staff about a ruling or a report only in a ticket, not in direct messages.
 5.3.5 Abuse of staff is treated like abuse of anyone else under section 5.1.
 
 ## 5.4 Spectators, casters and staff
@@ -187,7 +187,7 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 8.2 Each offence has its own penalty steps, shown under its rule. A repeat offence moves you to the next step while earlier offences still count.
 8.3 Staff can skip steps or go straight to a ban for a serious offence, and can reduce a penalty for an emergency.
 8.4 A ban applies to the person. Playing on another account while banned is smurfing under section 3.3.
-8.5 A team answers for what its players and coach do in its matches. Staff can award a map or the match to the other team for a breach.
+8.5 A team is responsible for what its players and coach do in its matches. Staff can award a map or the match to the other team for a breach.
 8.6 While you're banned from events, you can't play, coach or captain in one.
 8.7 An offence counts towards your next penalty for the time shown with its penalty steps, across seasons and events.
 8.8 One incident can break more than one rule. Staff can penalise each breach.
