@@ -99,7 +99,7 @@ PUGs are pick-up games any linked player can join through the WACS Discord. Thes
 # 8. Points and seasons
 
 8.1 You gain 3 points for a win and lose 2 for a loss. Points never go below 0.
-8.2 Each season has its own leaderboard, ranked by points, then wins.
+8.2 Each season has its own leaderboard, ranked by points, then win rate, then Rating.
 8.3 Staff announce each season's dates, and any prizes, in the Discord.
 8.4 Points reset to 0 when a new season starts.
 8.5 The leaderboard also shows each player's Rating from their PUG stats. Rating doesn't change points.
