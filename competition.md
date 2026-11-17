@@ -67,11 +67,10 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 3.4 If your team withdraws more than 48 hours before the event starts, you can ask for a refund. After that, fees aren't refunded unless staff agree.
 3.5 The prize pool and how it's split are on the event page.
 3.6 Prizes are paid by bank transfer within 30 days of the event ending.
-3.7 A team prize is paid to the captain. If the team asks before it's paid, staff can split it between the players instead.
-3.8 A prize lapses if the team hasn't given staff its payment details within 60 days of the event ending.
+3.7 A team prize is split equally between the players on the team's roster at the end of the event. If the team asks before it's paid, staff can pay it to the captain or split it another way the players agree.
+3.8 A player's share of a prize lapses if staff don't have their payment details within 60 days of the event ending.
 3.9 Staff can hold a prize while a protest, review or appeal about the event is open.
 3.10 A team that loses its placing after being paid, for example under Code of conduct section 6.6.2, returns the prize.
-3.11 How a team shares a prize among its players is up to the team.
 
 # 4. Draft events
 
@@ -99,14 +98,14 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 6.1.1 Online leagues run in match weeks, Monday to Sunday.
 6.1.2 Each match is set for the event's match night unless it's rescheduled.
 6.1.3 Your match time is the one on the match page. All times are Perth time.
-6.1.4 Staff can forfeit a match that isn't played in its match week.
+6.1.4 Staff can forfeit a match that isn't played in its match week, against the team that caused it. If both teams did, staff can record it as a loss for both.
 6.1.5 Staff set playoff match times. A playoff match can only be moved with staff approval.
 
 ## 6.2 Rescheduling
 6.2.1 Ask to move a match on the match page.
 6.2.2 The new time must be in the same match week. Anything else needs staff approval.
 6.2.3 A new time must be agreed at least 1 hour before the scheduled time. After that, only staff can move the match.
-6.2.4 A request you don't answer within 24 hours is accepted. You can decline without a reason, but offer another time where you can.
+6.2.4 Answer a request within 24 hours. You can decline without a reason, but offer another time where you can.
 6.2.5 Staff can move any match, for example for a clash or a server problem, and tell both teams when they do.
 6.2.6 If the teams don't agree a new time, the original time stands.
 6.2.7 A match can be played before its match week if both teams agree.
@@ -126,10 +125,10 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 
 7.1 When the veto ends, the server details appear on the match page. Only players in the match, the team's coach, casters and staff can join.
 7.2 Join the server and ready up within 10 minutes of the veto ending. Staff can treat a team that isn't ready by then as late under section 6.3.
-7.3 Warmup lasts until both teams are ready. Type .ready in chat once you're set. A team is ready when all 5 of its players have readied, or when one of them types .forceready with all 5 in the server.
+7.3 Warmup lasts until both teams are ready. Type .ready in chat once you're set. A team is ready when all 5 of its players have readied, or when one of them types .forceready with at least 4 in the server.
 7.4 Staff can ready a team, or start the map, when a team is holding it up without a good reason.
 7.5 Where a map's starting sides are decided by a knife round, the team with more players alive at the end wins it, then the team with more health left, then one chosen at random.
-7.6 The knife round winner has 60 seconds to type .stay or .switch. If they don't, sides are chosen at random.
+7.6 The knife round winner has 60 seconds to type .stay or .switch. If they don't, both teams stay on their current sides.
 7.7 Once a map is live, stay in the server until it ends.
 7.8 After each map, both teams ready up again in warmup. Be ready within 10 minutes of the previous map ending.
 7.9 A team can change players between maps. During a map, only a disconnect under section 9.4 lets a sub come in.
@@ -145,7 +144,7 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 8.3 In a Bo1, the teams ban in turn until one map is left.
 8.4 In a Bo3, each team bans one map, then each picks one, then the teams ban in turn until one map is left. That map is the decider.
 8.5 In a Bo5, the teams ban in turn until five maps are left, then pick in turn until one is left. That map is the decider.
-8.6 Starting sides on every map are decided by a knife round. Some events let the team that didn't pick a map choose its starting side instead, and use a knife round only on the decider. The event page says so.
+8.6 The team that didn't pick a map chooses its starting side. A knife round decides sides on the decider, and on the only map of a Bo1. Some events use a knife round on every map, and the event page says so.
 8.7 Some events set a time limit for each ban or pick. If it runs out, the choice is made at random.
 8.8 Maps come from the map pool on the event page.
 8.9 A ban or pick can't be undone, even if it was a mistake.
