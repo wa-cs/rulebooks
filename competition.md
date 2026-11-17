@@ -122,7 +122,7 @@ These rules cover WACS leagues, cups, LANs and draft events. They add to the Cod
 8.7 Some events set a time limit for each ban or pick. If it runs out, the choice is made at random.
 8.8 Maps come from the map pool on the event page.
 
-# 9. Match settings and technical rules
+# 9. Technical rules
 
 ## 9.1 Game settings
 9.1.1 Matches are MR12: first to 13 rounds wins a map.
