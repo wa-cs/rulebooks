@@ -15,6 +15,8 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 1.6 A ruling under section 1.5 applies to that case only. It doesn't change the rule.
 1.7 Staff rulings stand unless they're changed on appeal under section 9.2.
 1.8 Rules can change at any time. Changes are announced in the Discord and apply from the effective date at the top of each book.
+1.9 Examples in these rules show what a rule covers. They don't limit it.
+1.10 Staff can act on a breach found after a match or event has ended.
 
 # 2. Definitions
 
@@ -40,6 +42,12 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 - **Exploit**: Using a bug to gain an advantage.
 - **Queue ban**: A period where you can't join PUGs.
 - **Ruling**: A decision staff make about a match, a player or a team.
+- **Forfeit**: Losing a map or a match without playing it, or by a ruling.
+- **Protest**: A team's challenge to the result of an event match.
+- **Appeal**: A request to review a ruling or a penalty.
+- **Ticket**: A support ticket opened at wa-cs.com/support.
+- **Freeze time**: The start of each round, before players can move.
+- **Ghosting**: Getting information about your match from outside it while you play.
 
 # 3. Accounts
 
@@ -52,6 +60,8 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 3.6 In an event, play under the name on your WACS profile, or one staff can easily match to it.
 3.7 Don't pretend to be another player, a team or staff, in a name, an avatar or anywhere else.
 [penalties: impersonation]
+3.8 If you lose access to your account or move to a new one, tell staff in a ticket before you play on the new one. Staff move your link, and your history and penalties move with it.
+3.9 Don't sell, buy or trade accounts.
 
 # 4. Eligibility
 
@@ -61,6 +71,9 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 4.4 Staff can ask for proof of where you live or how old you are.
 4.5 An event can set its own residency and age rules on its event page.
 4.6 A current cheating ban from Valve, an anti-cheat service or another tournament organiser can make you ineligible, wherever it happened. Tell staff about one if they ask. Staff decide whether it applies.
+4.7 If you move away from WA during an event, tell staff. You can finish that event, but you can't enter a new one.
+4.8 Staff can play PUGs and enter events. Section 5.4.2 covers their own matches.
+4.9 Proof you give staff must be genuine. False proof makes you ineligible, and is misleading staff under section 5.3.2.
 
 # 5. Behaviour
 
@@ -75,19 +88,30 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 5.1.5 Threats and intimidation are banned, including threats to hack, dox or hurt someone.
 [penalties: threats]
 5.1.6 Staff can act on behaviour outside WACS, for example on social media or at another event, when it targets WACS players, staff or matches.
+5.1.7 Sharing someone's private information without their consent, such as their address, real name or photos, is harassment under section 5.1.3.
+5.1.8 Sexual comments or advances someone hasn't welcomed are harassment under section 5.1.3.
+5.1.9 Encouraging someone to harm themselves is a threat under section 5.1.5.
 
 ## 5.2 In the Discord
 5.2.1 Keep channels on topic. No spam, advertising or unsolicited DMs to members.
 5.2.2 No sexual, violent or shock content.
+5.2.3 Don't ping staff or roles except to report a match problem.
+5.2.4 Don't use another account to get around a Discord timeout or ban.
+5.2.5 Staff can delete messages and time members out in the Discord without a report.
 
 ## 5.3 Towards staff
 5.3.1 Follow staff instructions during a match.
 5.3.2 Don't mislead staff. That includes false information in a ticket, a report or an appeal, and edited or made-up evidence.
 5.3.3 If you disagree with a ruling, appeal it under section 9.2. Don't argue it out in public channels.
+5.3.4 Raise a ruling or a report only in a ticket. Don't message staff about it directly.
+5.3.5 Abuse of staff is treated like abuse of anyone else under section 5.1.
 
 ## 5.4 Spectators, casters and staff
 5.4.1 These rules apply to spectators and casters too. Staff can remove anyone who breaks them from a server, a channel or a broadcast.
 5.4.2 Staff don't rule on a match their own team plays in. Another member of staff does.
+5.4.3 Staff keep reports, evidence and the names of the people who send them private.
+5.4.4 Staff can't use their access to help their own team or themselves, or to look at an opponent's private information.
+5.4.5 Casters stay fair to both teams on a broadcast.
 
 # 6. Fair play
 
@@ -96,6 +120,9 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 [penalties: cheating]
 6.1.2 Hardware that cheats is banned too, including DMA cards, input automation devices and anything that reads or changes the game from outside it.
 6.1.3 Modified game files are banned, including changed textures, models, sounds and HUD files.
+6.1.4 Having cheat software or hardware running while you play counts as cheating, whether or not you used it.
+6.1.5 Making, selling or sharing cheats, or helping someone cheat, counts as cheating.
+6.1.6 Knowingly playing alongside a cheater without reporting them can be penalised as cheating.
 
 ## 6.2 Bugs and exploits
 6.2.1 Play the game and its maps as they're designed. Exploiting a bug is banned.
@@ -123,19 +150,27 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 6.3.4 Graphics driver settings such as colour, vibrance, brightness and scaling are allowed.
 6.3.5 Overlays that show anything about the match beyond what the game shows are banned. Voice and chat overlays are allowed.
 6.3.6 A banned input, config or file is penalised as an exploit under section 6.2.1.
+6.3.7 Buy binds, toggles and binds that change a setting are allowed, as long as each key press makes at most one movement or attack action.
 
 ## 6.4 Outside information
 6.4.1 Ghosting and stream sniping are banned. That means getting information about your match from a stream, a spectator or anyone outside it while you play.
 [penalties: sniping]
 6.4.2 During a live round, only the players in the match can talk to their team. The Competition rules say when a coach can.
+6.4.3 Don't watch a stream or broadcast of your own match while you play, even on a delay.
+6.4.4 Don't use a second account to spectate a match you're playing in.
 
 ## 6.5 Match fixing and betting
 6.5.1 Match fixing is banned. That means agreeing a result, losing on purpose, or passing on information to help someone bet.
 [penalties: fixing]
 6.5.2 Don't bet on a WACS match you play in, coach, cast or run, and don't help anyone else bet on one.
+6.5.3 Losing on purpose, or not trying to win, to get a better seed or an easier path through a bracket is match fixing.
+6.5.4 Two teams working together to change a result or the standings for a third team is match fixing.
+6.5.5 If anyone approaches you about fixing a match or betting on one, tell staff straight away. Not telling staff can be penalised under section 6.5.1.
 
 ## 6.6 Reviews
 6.6.1 Staff can review any match, and can remove a player or hold a result while they look into it.
+6.6.2 If a review finds a player cheated or was ineligible, staff can change their results, even after an event has ended. A team that won a prize that way returns it.
+6.6.3 Staff can share a ruling on cheating or match fixing with other tournament organisers.
 
 # 7. Evidence and demos
 
@@ -144,6 +179,8 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 7.3 Staff can also use clips, screenshots, chat logs, voice recordings and anything else they find reliable.
 7.4 Staff can ask a player for their POV demo or a screenshot of their game settings. At a LAN, staff can also check a player's computer and peripherals.
 7.5 Send what staff ask for within 24 hours. Refusing, or not sending it in time without a good reason, counts against you, and staff rule on the evidence they have.
+7.6 Send clips, demos and screenshots unedited, and say where they came from.
+7.7 Staff keep evidence private, and share only what they need to explain a ruling.
 
 # 8. Penalties
 
@@ -152,6 +189,9 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 8.3 Staff can skip steps or go straight to a ban for a serious offence, and can reduce a penalty for an emergency.
 8.4 A ban applies to the person. Playing on another account while banned is smurfing under section 3.3.
 8.5 A team answers for what its players and coach do in its matches. Staff can award a map or the match to the other team for a breach.
+8.6 While you're banned from events, you can't play, coach or captain in one.
+8.7 An offence counts towards your next penalty for the time shown with its penalty steps, across seasons and events.
+8.8 One incident can break more than one rule. Staff can penalise each breach.
 
 # 9. Reports and appeals
 
@@ -160,14 +200,21 @@ To contact staff, open a ticket at [wa-cs.com/support](https://wa-cs.com/support
 9.1.2 Report a match within 24 hours of it ending. Report anything else as soon as you can.
 9.1.3 Include clips or screenshots if you have them. Staff can ask for more under section 7.4.
 9.1.4 To protest the result of an event match, follow Competition rules section 10.
+9.1.5 Reporting in bad faith, or sending the same report again and again, is misleading staff under section 5.3.2.
+9.1.6 Staff tell you when a report has been dealt with, but not always what penalty was given.
 
 ## 9.2 Appeals
 9.2.1 Appeal a ruling or a penalty within 72 hours by opening a ticket.
 9.2.2 Say why the ruling is wrong or too harsh, and include anything staff didn't have before.
 9.2.3 A member of staff who wasn't involved in the ruling reviews it. Their decision is final.
 9.2.4 A penalty stays in place while it's being appealed.
+9.2.5 You can appeal a ruling once.
+9.2.6 If an appeal brings new evidence, the review can make a penalty heavier as well as lighter.
 
 # 10. Media
 
 10.1 WACS can stream, record, clip and publish any WACS match, and use player and team names and logos with it.
 10.2 You can stream your own PUGs. Streaming your own event matches needs approval under Competition rules section 12.2.
+10.3 You can share clips and highlights of WACS matches, as long as you don't present them as official.
+10.4 Don't use the WACS name or logo in a way that suggests WACS backs you, unless staff approve it.
+10.5 You can ask staff in a ticket to leave your name and likeness out of new WACS content. Results and match records stay.
